@@ -1,0 +1,30 @@
+.site-headers {
+    background-color: rgb(92, 92, 228);
+    color: whitesmoke;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-content{
+    margin: 10px;
+}
+
+.site-content-link{
+    color: whitesmoke;
+}
+
+.picture{
+    border-radius: 50%;
+    max-width:100%;
+    height:30%;
+    box-shadow: #0e0eaf 3px 3px;
+}
+
+body{
+    margin: 0;
+    
+}
